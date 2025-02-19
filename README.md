@@ -3,7 +3,7 @@
 <h3 align="center"> <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" height="23"/> Data Analyst from Moscow <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" height="23"/> </h3>
 
 ## Обо мне
-- Я - бизнес-аналитик в СБД (ДЗО Сбера).
+- Я - бизнес-аналитик в Magnit OMNI.
 - Люблю анализ данных и котят.
 - Мои контакты:
     - [Телеграм](https://t.me/kostya_gp)
@@ -11,8 +11,9 @@
 ## Мой стэк:
 - **Python**: pandas, numpy, seaborn, scipy, statsmodels, matplotlib, plotly, pingouin, prophet
 - **SQL**: агрегация, фильтрация, джойны, вложенные запросы, оконные функции 
-- BI-инструменты: **Tableau**
-- Базы данных: **PostgreSQ**, **ClickHouse**
+- BI-инструменты: **Tableau, Datalens**
+- Базы данных: **PostgreSQ**, **ClickHouse**, **GreenPlum**
+
 
 ## Моё портфолио pet-проектов
 
